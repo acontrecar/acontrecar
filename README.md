@@ -4,7 +4,7 @@
 
 I am a young student of 22 years looking for a job opportunity to deepen and test my knowledge.
 
-Skills: Angular / Laravel / Vue / Java / Spring / JSP / TS / JS / PHP / Nest / CSS / HTML / CSS
+Skills: Angular / Laravel / Vue / Java / Spring / JSP / TS / JS / PHP / Nest / SCSS / HTML / CSS
 
 - 🌱 I’m currently learning everything about Frontend and Backend technologies.
 - 👯 I’m looking to collaborate on software companies.
