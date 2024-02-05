@@ -1,10 +1,9 @@
 ### Hi there 👋, My name is Antonio Contreras
 #### I’m in love with web development
-![I’m in love with web development](https://webantonioc.es/assets/img/ideogram.jpeg)
 
 I am a young student of 22 years looking for a job opportunity to deepen and test my knowledge.
 
-Skills: Angular / Laravel / Vue / Java / Spring / JSP / TS / JS / PHP / Nest / SCSS / HTML / CSS
+Skills: Angular / Laravel / Vue / Java / Spring / JSP / TS / JS / PHP / Nest / SCSS / HTML / CSS / Python
 
 - 🌱 I’m currently learning everything about Frontend and Backend technologies.
 - 👯 I’m looking to collaborate on software companies.
