@@ -12,7 +12,3 @@ Skills: Angular / Laravel / Vue / Java / Spring / JSP / TS / JS / PHP / Nest / S
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/acontrecar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/antoniocontrerasc%C3%A1rdenas//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio-antoniocc.netlify.app/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acontrecar)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=acontrecar&show_icons=true&count_private=true)  
-
